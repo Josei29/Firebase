@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'PT Serif', serif;
+}
+
+.jumbotron {
+    background-color: #016795;
+}
+
+#add {
+    background-color: #016795;
+    border: none;
+}
+
+#add:hover {
+    background-color: #005279;
+}
+
+.card-title {
+    text-align: center;
+    margin: 10px;
+}
+
+h5 {
+    font-size: 20px;
+}
